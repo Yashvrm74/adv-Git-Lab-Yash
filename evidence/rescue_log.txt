@@ -1,0 +1,3 @@
+4432f13 wip: simulate lost commit
+54973bd Merge pull request #2 from Yashvrm74/hotfix/1.0.1
+462d50e fix: hotfix 1.0.1 - minor README correction

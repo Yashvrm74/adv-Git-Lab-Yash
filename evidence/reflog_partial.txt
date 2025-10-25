@@ -1,0 +1,34 @@
+54973bd HEAD@{0}: reset: moving to HEAD~1
+4432f13 HEAD@{1}: commit: wip: simulate lost commit
+54973bd HEAD@{2}: reset: moving to HEAD
+54973bd HEAD@{3}: checkout: moving from main to temp/whoops
+54973bd HEAD@{4}: checkout: moving from main to main
+54973bd HEAD@{5}: checkout: moving from main to main
+54973bd HEAD@{6}: pull --rebase origin main: Fast-forward
+af25996 HEAD@{7}: checkout: moving from hotfix/1.0.1 to main
+cccf444 HEAD@{8}: commit (cherry-pick): feat(auth): add hello file under src
+462d50e HEAD@{9}: checkout: moving from main to hotfix/1.0.1
+af25996 HEAD@{10}: checkout: moving from hotfix/1.0.1 to main
+462d50e HEAD@{11}: commit: fix: hotfix 1.0.1 - minor README correction
+af25996 HEAD@{12}: checkout: moving from main to hotfix/1.0.1
+af25996 HEAD@{13}: checkout: moving from main to main
+af25996 HEAD@{14}: commit: docs: add notes for PR strategy and merge
+fd502c5 HEAD@{15}: checkout: moving from feature/auth to main
+fd502c5 HEAD@{16}: rebase (finish): returning to refs/heads/feature/auth
+fd502c5 HEAD@{17}: rebase (start): checkout origin/main
+2f5f520 HEAD@{18}: checkout: moving from main to feature/auth
+fd502c5 HEAD@{19}: commit: docs: add PR link to evidence
+33c2c22 HEAD@{20}: commit (merge): fix(readme): resolve conflict between main (Project A) and feature/auth (Project B)
+b93d1a6 HEAD@{21}: checkout: moving from feature/auth to main
+2f5f520 HEAD@{22}: checkout: moving from main to feature/auth
+b93d1a6 HEAD@{23}: checkout: moving from feature/auth to main
+2f5f520 HEAD@{24}: commit: docs: set Project to B on feature/auth
+efcfc12 HEAD@{25}: checkout: moving from main to feature/auth
+b93d1a6 HEAD@{26}: commit: docs: set Project to A on main
+d0b82d2 HEAD@{27}: checkout: moving from feature/auth to main
+efcfc12 HEAD@{28}: commit: feat(auth): add hello file under src
+d8122f7 HEAD@{29}: commit: chore: add contributors list
+b66f6bb HEAD@{30}: checkout: moving from main to feature/auth
+d0b82d2 HEAD@{31}: pull origin main: Fast-forward
+b66f6bb HEAD@{32}: checkout: moving from feature/auth to main
+b66f6bb HEAD@{33}: initial pull
