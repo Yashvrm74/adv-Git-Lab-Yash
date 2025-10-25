@@ -1,0 +1,38 @@
+54973bd HEAD@{0}: checkout: moving from rescue to main
+dd03bf4 HEAD@{1}: commit: docs: add reflog and recovery evidence from rescue branch
+c49ada5 HEAD@{2}: commit: docs: add reflog recovery evidence
+4432f13 HEAD@{3}: checkout: moving from temp/whoops to rescue
+54973bd HEAD@{4}: reset: moving to HEAD~1
+4432f13 HEAD@{5}: commit: wip: simulate lost commit
+54973bd HEAD@{6}: reset: moving to HEAD
+54973bd HEAD@{7}: checkout: moving from main to temp/whoops
+54973bd HEAD@{8}: checkout: moving from main to main
+54973bd HEAD@{9}: checkout: moving from main to main
+54973bd HEAD@{10}: pull --rebase origin main: Fast-forward
+af25996 HEAD@{11}: checkout: moving from hotfix/1.0.1 to main
+cccf444 HEAD@{12}: commit (cherry-pick): feat(auth): add hello file under src
+462d50e HEAD@{13}: checkout: moving from main to hotfix/1.0.1
+af25996 HEAD@{14}: checkout: moving from hotfix/1.0.1 to main
+462d50e HEAD@{15}: commit: fix: hotfix 1.0.1 - minor README correction
+af25996 HEAD@{16}: checkout: moving from main to hotfix/1.0.1
+af25996 HEAD@{17}: checkout: moving from main to main
+af25996 HEAD@{18}: commit: docs: add notes for PR strategy and merge
+fd502c5 HEAD@{19}: checkout: moving from feature/auth to main
+fd502c5 HEAD@{20}: rebase (finish): returning to refs/heads/feature/auth
+fd502c5 HEAD@{21}: rebase (start): checkout origin/main
+2f5f520 HEAD@{22}: checkout: moving from main to feature/auth
+fd502c5 HEAD@{23}: commit: docs: add PR link to evidence
+33c2c22 HEAD@{24}: commit (merge): fix(readme): resolve conflict between main (Project A) and feature/auth (Project B)
+b93d1a6 HEAD@{25}: checkout: moving from feature/auth to main
+2f5f520 HEAD@{26}: checkout: moving from main to feature/auth
+b93d1a6 HEAD@{27}: checkout: moving from feature/auth to main
+2f5f520 HEAD@{28}: commit: docs: set Project to B on feature/auth
+efcfc12 HEAD@{29}: checkout: moving from main to feature/auth
+b93d1a6 HEAD@{30}: commit: docs: set Project to A on main
+d0b82d2 HEAD@{31}: checkout: moving from feature/auth to main
+efcfc12 HEAD@{32}: commit: feat(auth): add hello file under src
+d8122f7 HEAD@{33}: commit: chore: add contributors list
+b66f6bb HEAD@{34}: checkout: moving from main to feature/auth
+d0b82d2 HEAD@{35}: pull origin main: Fast-forward
+b66f6bb HEAD@{36}: checkout: moving from feature/auth to main
+b66f6bb HEAD@{37}: initial pull

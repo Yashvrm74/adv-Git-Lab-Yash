@@ -1,0 +1,20 @@
+* dd03bf4 (origin/rescue, rescue) docs: add reflog and recovery evidence from rescue branch
+* c49ada5 docs: add reflog recovery evidence
+* 4432f13 wip: simulate lost commit
+*   54973bd (HEAD -> main, origin/main, origin/HEAD, temp/whoops) Merge pull request #2 from Yashvrm74/hotfix/1.0.1
+|\  
+| | * cccf444 (origin/hotfix/1.0.1, hotfix/1.0.1) feat(auth): add hello file under src
+| |/  
+| * 462d50e fix: hotfix 1.0.1 - minor README correction
+|/  
+* af25996 (tag: v1.0.0) docs: add notes for PR strategy and merge
+* fd502c5 (origin/feature/auth, feature/auth) docs: add PR link to evidence
+*   33c2c22 fix(readme): resolve conflict between main (Project A) and feature/auth (Project B)
+|\  
+| * 2f5f520 docs: set Project to B on feature/auth
+| * efcfc12 feat(auth): add hello file under src
+| * d8122f7 chore: add contributors list
+* | b93d1a6 docs: set Project to A on main
+* | d0b82d2 Delete ss
+|/  
+* b66f6bb Create ss
